@@ -1,7 +1,14 @@
-Hi there! I'm Lázaro and I'm an IT nerd who loves working hands-on with new technologies, be it hard- or software.
+## 👋 Moin!
 
-- 👨‍🎓 avid learner
-- ✈ 🚀 an aerospace enthusiast
-- 🎧 music lover
+<p>I'm Lázaro and I'm an IT nerd. I love working with IT infrastructure, automation and open-source software.</p>
+<p>I'm an:</p>
+<ul>
+<li>👨‍🎓 avid learner</li>
+<li>✈ aerospace enthusiast 🚀</li>
+<li>🎧 music lover</li>
+</ul>
+<p>Right now I'm working on automating my own home IT infrastructure with Ansible and tinkering with my homelab to find a setup that fits me.</p>
+<p>I work as a Service Delivery Manager at <a href="https://haiilo.com/">Haiilo</a> in Hamburg. You can get in touch with me via <a href="https://www.linkedin.com/in/lazaroblanc">LinkedIn</a></p>
 
-I'm currently working as a DevOps Engineer for the Data Lake team @ Deutsche Post / DHL
+### Most used languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroblanc&hide_title=true&layout=compact&langs_count=10&theme=dracula" />
