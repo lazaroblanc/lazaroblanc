@@ -8,7 +8,7 @@
 <li>🎧 music lover</li>
 </ul>
 <p>Right now I'm working on automating my own home IT infrastructure with Ansible and tinkering with my homelab to find a setup that fits me.</p>
-<p>I work as a Service Delivery Manager at <a href="https://haiilo.com/">Haiilo</a> in Hamburg. You can get in touch with me via <a href="https://www.linkedin.com/in/lazaroblanc">LinkedIn</a></p>
+<p>You can get in touch with me via <a href="https://www.linkedin.com/in/lazaroblanc">LinkedIn</a></p>
 
 ### Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroblanc&hide_title=true&layout=compact&langs_count=10&theme=dracula" />
