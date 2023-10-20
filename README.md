@@ -10,5 +10,10 @@
 <p>Right now I'm working on automating my own home IT infrastructure with Ansible and tinkering with my homelab to find a setup that fits me.</p>
 <p>You can get in touch with me via <a href="https://www.linkedin.com/in/lazaroblanc">LinkedIn</a></p>
 
-### Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroblanc&hide_title=true&layout=compact&langs_count=10&theme=dracula" />
+### Stats
+<div style="display: flex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroblanc&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/lazaroblanc/github-stats/021da6a5c3a0d1d65eac2b65f2c872409c9e381d/generated/overview.svg#gh-dark-mode-only" />
+</div>
+
+
