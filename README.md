@@ -13,7 +13,7 @@
 <p>You can get in touch with me via <a href="https://www.linkedin.com/in/lazaroblanc">LinkedIn</a></p>
 
 ### Donations
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I6QBQWJ)
+You can choose to donate via <a href="https://github.com/sponsors/lazaroblanc">GitHub Sponsors</a> or <a href="https://ko-fi.com/lazaroblanc">Ko-fi</a>.
 
 ### Stats
 <div style="display: flex">
