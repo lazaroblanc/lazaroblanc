@@ -8,7 +8,12 @@
 <li>🎧 music lover</li>
 </ul>
 <p>Right now I'm working on automating my own home IT infrastructure with Ansible and tinkering with my homelab to find a setup that fits me.</p>
+
+### Contact
 <p>You can get in touch with me via <a href="https://www.linkedin.com/in/lazaroblanc">LinkedIn</a></p>
+
+### Donations
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I6QBQWJ)
 
 ### Stats
 <div style="display: flex">
