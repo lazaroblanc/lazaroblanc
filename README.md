@@ -17,7 +17,7 @@ You can choose to donate via <a href="https://github.com/sponsors/lazaroblanc">G
 
 ### Stats
 <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroblanc&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroblanc&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" />
     <img src="https://raw.githubusercontent.com/lazaroblanc/github-stats/021da6a5c3a0d1d65eac2b65f2c872409c9e381d/generated/overview.svg#gh-dark-mode-only" />
 </div>
 
